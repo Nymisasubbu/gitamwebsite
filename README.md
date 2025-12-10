@@ -1,0 +1,2 @@
+# gitamwebsite
+a static website
